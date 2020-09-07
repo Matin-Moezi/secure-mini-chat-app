@@ -5,7 +5,7 @@
 This chat app is a server-client chat app based on TCP protocol and secured with end-to-end encryption.
 This secure mini chat app can transfer text and file (up to 10MB) between maximum 10 clients at a same time.
 
-We have used SHA-256 asymmetric cryptography as a protocol for transfer session key between clients and the server.
+We have used RSA asymmetric cryptography as a protocol for transfer session key between clients and the server.
 For end-to-end encryption, we have implemented AES symmetric cryptography.
 
 ### Dependencies
