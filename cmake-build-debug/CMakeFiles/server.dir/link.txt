@@ -1,0 +1,1 @@
+/usr/bin/gcc -g   CMakeFiles/server.dir/server.c.o CMakeFiles/server.dir/symm_crypt.c.o CMakeFiles/server.dir/asym_crypt.c.o  -o server  -pthread -lgcrypt 

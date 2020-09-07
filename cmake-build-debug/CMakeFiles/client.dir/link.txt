@@ -1,0 +1,1 @@
+/usr/bin/gcc -g   CMakeFiles/client.dir/client.c.o CMakeFiles/client.dir/symm_crypt.c.o CMakeFiles/client.dir/asym_crypt.c.o  -o client  -pthread -lgcrypt 
